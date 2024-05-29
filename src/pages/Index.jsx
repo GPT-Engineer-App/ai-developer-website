@@ -25,7 +25,7 @@ const Index = () => {
             <IconButton aria-label="Twitter" icon={<FaTwitter />} size="lg" />
           </Link>
         </HStack>
-        <Button colorScheme="teal" size="lg">
+        <Button colorScheme="teal" size="lg" variant="outline">
           Contact Me
         </Button>
       </VStack>
